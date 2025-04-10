@@ -1,5 +1,5 @@
 # Earth-Quake
-Project for the final exam of the Machine Learning (MAT3533) course in the Autumn Semester 2024 - 2025 at VNU University of Science.
+Group project for the final exam of the Machine Learning (MAT3533) course in the Autumn Semester 2024 - 2025 at VNU University of Science.
 
 ## Link for the data and description
 Link: https://www.kaggle.com/datasets/shreyasur965/recent-earthquakes.
